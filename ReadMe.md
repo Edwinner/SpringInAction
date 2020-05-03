@@ -1,2 +1,2 @@
-SpringBBootInAction
+SpringBootInAction
 chapter2
